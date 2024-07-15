@@ -13,3 +13,5 @@ export default {
 	},
 	plugins: [require("flowbite/plugin")],
 };
+
+// Tailwind Config 
