@@ -1,0 +1,82 @@
+[
+  {
+    "recId": "rec1",
+    "type": "Health Tip",
+    "title": "Stay Hydrated",
+    "description": "Drinking at least 8 glasses of water daily is essential for maintaining overall health. Water helps to keep your body hydrated, flushes out toxins, and supports vital bodily functions.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/BrJnBFt/Stay-Hydrated.jpg"
+  },
+  {
+    "recId": "rec2",
+    "type": "Preventive Measure",
+    "title": "Regular Exercise",
+    "description": "Engaging in regular physical activity, such as walking, running, or yoga, can significantly reduce the risk of chronic diseases, improve mental health, and enhance overall well-being.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/56RzyM8/Regular-Exercise.jpg"
+  },
+  {
+    "recId": "rec3",
+    "type": "Upcoming Test Suggestion",
+    "title": "Cholesterol Screening",
+    "description": "It's recommended to get a cholesterol screening every 4-6 years. Monitoring your cholesterol levels can help you manage the risk of heart disease and stroke.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/R3B4rhc/Cholesterol-Screening.jpg"
+  },
+  {
+    "recId": "rec4",
+    "type": "Health Tip",
+    "title": "Balanced Diet",
+    "description": "A balanced diet rich in fruits, vegetables, whole grains, and lean proteins is crucial for maintaining good health. Avoid excessive sugar, salt, and unhealthy fats.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/HXg0Vq9/Balanced-Diet.jpg"
+  },
+  {
+    "recId": "rec5",
+    "type": "Preventive Measure",
+    "title": "Annual Physical Exam",
+    "description": "An annual physical exam helps to detect health issues early, ensures vaccinations are up to date, and provides an opportunity to discuss any health concerns with your doctor.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/N7VhGHy/Annual-Physical-Exam.jpg"
+  },
+  {
+    "recId": "rec6",
+    "type": "Upcoming Test Suggestion",
+    "title": "Blood Pressure Check",
+    "description": "Regular blood pressure checks can help in early detection and management of hypertension, reducing the risk of heart disease and stroke.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/SvNcz7R/Blood-Pressure-Check.jpg"
+  },
+  {
+    "recId": "rec7",
+    "type": "Health Tip",
+    "title": "Adequate Sleep",
+    "description": "Getting 7-8 hours of sleep per night is essential for physical and mental health. Quality sleep improves mood, cognitive function, and overall well-being.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/7XzL06Q/Adequate-Sleep.jpg"
+  },
+  {
+    "recId": "rec8",
+    "type": "Preventive Measure",
+    "title": "Quit Smoking",
+    "description": "Quitting smoking significantly reduces the risk of lung cancer, heart disease, stroke, and other respiratory illnesses. Seek support to quit smoking today.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/5Fdc3bF/Quit-Smoking.jpg"
+  },
+  {
+    "recId": "rec9",
+    "type": "Upcoming Test Suggestion",
+    "title": "Blood Sugar Test",
+    "description": "Regular blood sugar tests are essential for detecting and managing diabetes. It's recommended to get tested at least once a year or as advised by your doctor.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/qRhgfwZ/Blood-Sugar-Test.jpg"
+  },
+  {
+    "recId": "rec10",
+    "type": "Health Tip",
+    "title": "Mental Health Care",
+    "description": "Take time to focus on your mental health. Practice mindfulness, seek therapy if needed, and ensure you're taking steps to reduce stress and anxiety.",
+    "date": "2024-06-08",
+    "image": "https://i.ibb.co/wJpN5ns/Mental-Health-Care.jpg"
+  }
+]
