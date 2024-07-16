@@ -40,3 +40,5 @@ MenuItems.propTypes = {
 };
 
 export default MenuItems;
+
+// MenuItems
