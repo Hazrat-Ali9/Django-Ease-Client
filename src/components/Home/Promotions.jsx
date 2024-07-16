@@ -79,3 +79,4 @@ const Promotions = () => {
 };
 
 export default Promotions;
+// Promotion js
