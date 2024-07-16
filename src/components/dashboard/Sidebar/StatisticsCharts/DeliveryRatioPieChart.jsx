@@ -32,3 +32,5 @@ DeliveryRatioPieChart.propTypes = {
 }
 
 export default DeliveryRatioPieChart;
+
+// Delivery ratio
