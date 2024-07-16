@@ -28,3 +28,5 @@ MostlyBookedChart.propTypes = {
 }
 
 export default MostlyBookedChart;
+
+// MostBookedChart
