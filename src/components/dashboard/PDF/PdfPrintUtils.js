@@ -149,3 +149,5 @@ export const handleUserAppointmentsPdf = (data, user) => {
 // 	x.document.write(iframe);
 // 	x.document.close();
 };
+
+// PdfPrintutls
