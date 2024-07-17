@@ -89,3 +89,5 @@ BookNowFormModal.propTypes = {
 };
 
 export default BookNowFormModal;
+
+// Book Now From Modal
