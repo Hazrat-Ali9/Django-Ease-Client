@@ -9,7 +9,7 @@ import useAxiosCommon from "../../../hooks/useAxiosCommon";
 import { useState } from "react";
 import { imageUpload } from "../../../api/utils";
 import { TbFidgetSpinner } from "react-icons/tb";
-
+// User Profile
 const UserProfile = () => {
 	const axiosSecure = useAxiosSecure();
 	const axiosCommon = useAxiosCommon();
