@@ -7,3 +7,5 @@ const useAuth = () => {
 };
 
 export default useAuth;
+// Use Auth
+
