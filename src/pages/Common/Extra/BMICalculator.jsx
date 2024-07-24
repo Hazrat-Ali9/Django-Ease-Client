@@ -103,3 +103,5 @@ const BMICalculator = () => {
 };
 
 export default BMICalculator;
+
+// BMI Calculator
