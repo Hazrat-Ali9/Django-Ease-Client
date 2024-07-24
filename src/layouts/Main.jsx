@@ -13,6 +13,7 @@ const style = {
 	height: "100vh",
 };
 
+// Main Jsx
 const Main = () => {
 	const { loading } = useAuth();
 
