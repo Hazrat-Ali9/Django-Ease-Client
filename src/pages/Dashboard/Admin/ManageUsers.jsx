@@ -2,7 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import UserUpdateModalRow from "../../../components/dashboard/Sidebar/TableRows/UserUpdateModalRow";
 import LoadingSpinner from "../../../components/Shared/LoadingSpinner";
-
+// Manage User 
 const ManageUsers = () => {
 	const axiosSecure = useAxiosSecure();
 
