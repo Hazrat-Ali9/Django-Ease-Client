@@ -3,7 +3,7 @@ import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import useAuth from "../../../hooks/useAuth";
 import LoadingSpinner from "../../../components/Shared/LoadingSpinner";
 import Swal from "sweetalert2";
-
+//UserAppointments
 const UserAppointments = () => {
 	const axiosSecure = useAxiosSecure();
 
