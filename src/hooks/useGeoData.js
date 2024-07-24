@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import useAxiosCommon from "./useAxiosCommon";
-
+// Use GEO Data 
 export const GeoData = async () => {
 	const axiosCommon = useAxiosCommon();
 	const { data = {}, isLoading } = useQuery({
@@ -18,3 +18,4 @@ export const GeoData = async () => {
 	console.log(districts, upazilas);
 	return { districts, upazilas, isLoading };
 };
+
