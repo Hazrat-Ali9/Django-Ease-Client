@@ -5,6 +5,7 @@ const ContactUs = () => {
 		handleSubmit,
 		formState: { errors },
 	} = useForm();
+	// Contact Us
 	const onSubmit = (data) => console.log(data);
 	return (
 		<div>
