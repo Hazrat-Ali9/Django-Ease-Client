@@ -5,7 +5,7 @@ import { TbFidgetSpinner } from "react-icons/tb";
 import { imageUpload } from "../../../api/utils";
 import toast from "react-hot-toast";
 import { useNavigate } from "react-router-dom";
-
+// Add Banner 
 const AddBanner = () => {
 	const axiosSecure = useAxiosSecure();
 	const navigate = useNavigate();
