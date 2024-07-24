@@ -3,7 +3,7 @@ import DeliveryRatioPieChart from "../../../components/dashboard/Sidebar/Statist
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import LoadingSpinner from "../../../components/Shared/LoadingSpinner";
 import MostlyBookedChart from "../../../components/dashboard/Sidebar/StatisticsCharts/MostlyBookedChart";
-
+//AdminStatistics
 const AdminStatistics = () => {
 	const axiosSecure = useAxiosSecure();
 	const { data: adminStat = {}, isLoading } = useQuery({
@@ -28,3 +28,5 @@ const AdminStatistics = () => {
 };
 
 export default AdminStatistics;
+
+
