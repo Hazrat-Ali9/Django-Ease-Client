@@ -3,7 +3,7 @@ import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import toast from "react-hot-toast";
 import LoadingSpinner from "../../../components/Shared/LoadingSpinner";
 import Swal from "sweetalert2";
-
+// All Banner
 const AllBanners = () => {
 	const axiosSecure = useAxiosSecure();
 	const {
