@@ -4,7 +4,7 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 import { useState } from "react";
 import { TbFidgetSpinner } from "react-icons/tb";
-
+// Login js
 const Login = () => {
 	const { register, handleSubmit } = useForm();
 	const { signIn, loading, setLoading } = useAuth();
