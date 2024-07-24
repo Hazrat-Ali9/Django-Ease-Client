@@ -64,3 +64,5 @@ const AboutUs = () => {
 };
 
 export default AboutUs;
+
+// About Us
