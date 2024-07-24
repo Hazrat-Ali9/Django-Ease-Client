@@ -3,7 +3,7 @@ import AllTestTableRow from "../../../components/dashboard/Sidebar/TableRows/All
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import LoadingSpinner from "../../../components/Shared/LoadingSpinner";
 import Swal from "sweetalert2";
-
+// All Test
 const AllTests = () => {
 	const axiosSecure = useAxiosSecure();
 	const {
