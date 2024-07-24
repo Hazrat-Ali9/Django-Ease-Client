@@ -3,7 +3,7 @@ import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import { Link } from "react-router-dom";
 import LoadingSpinner from "../../../components/Shared/LoadingSpinner";
 
-
+// AllReservations
 const AllReservations = () => {
 	const axiosSecure = useAxiosSecure();
 
