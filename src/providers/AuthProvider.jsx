@@ -6,7 +6,7 @@ import {
 	getAuth,
 	onAuthStateChanged,
 	sendPasswordResetEmail,
-	signInWithEmailAndPassword,
+	signInWithEmailAndPassword,// Google Auth Provider
 	signInWithPopup,
 	signOut,
 	updateProfile,
