@@ -32,3 +32,6 @@ export const bloodGroup = [
         "type": "O-"
     }
 ];
+
+
+// Blood Group Data 
