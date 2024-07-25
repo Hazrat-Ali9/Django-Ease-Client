@@ -12,7 +12,7 @@ const DistrictAndUpazila = () => {
 			return { districts, upazilas};
 		},
 	});
-
+// DistrictAndUpazila
 	const { districts, upazilas } = data;
 	// console.log(districts, upazilas)
 	return { districts, upazilas, isLoading };
