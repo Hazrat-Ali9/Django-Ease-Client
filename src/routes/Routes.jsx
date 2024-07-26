@@ -170,6 +170,7 @@ export const router = createBrowserRouter([
 					</PrivateRoute>
 				),
 			},
+			// Route Jsx
 			{
 				path: "statistics",
 				element: (
