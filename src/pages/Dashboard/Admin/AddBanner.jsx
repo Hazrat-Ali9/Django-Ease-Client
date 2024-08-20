@@ -171,5 +171,5 @@ const AddBanner = () => {
 		</div>
 	);
 };
-
+// Add Banner 
 export default AddBanner;
