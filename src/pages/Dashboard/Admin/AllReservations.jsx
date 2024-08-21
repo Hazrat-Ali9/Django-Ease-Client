@@ -86,5 +86,5 @@ const AllReservations = () => {
 		</div>
 	);
 };
-// all Resevertion 
+// All Resevertion 
 export default AllReservations;
