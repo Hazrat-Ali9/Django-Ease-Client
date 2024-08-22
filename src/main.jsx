@@ -9,7 +9,7 @@ import { HelmetProvider } from "react-helmet-async";
 // import 'Flowbite';
 
 const queryClient = new QueryClient();
-
+// React Strict Mode 
 ReactDOM.createRoot(document.getElementById("root")).render(
 	// <React.StrictMode>
 		<HelmetProvider>
