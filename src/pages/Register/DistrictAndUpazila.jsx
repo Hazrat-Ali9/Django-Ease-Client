@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
-
+// District
 const DistrictAndUpazila = () => {
 	const { data = {}, isLoading } = useQuery({
 		queryKey: ["district-upzila"],
