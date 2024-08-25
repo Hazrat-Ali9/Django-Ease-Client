@@ -2,7 +2,7 @@ import { Navigate } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import useRole from '../hooks/UseRole'
 import LoadingSpinner from '../components/Shared/LoadingSpinner'
-
+// Admin ROute
 const AdminRoute = ({ children }) => {
   const {role, isLoading} = useRole()
 
@@ -17,4 +17,3 @@ AdminRoute.propTypes = {
   children: PropTypes.element,
 }
 
-// Admin Route
