@@ -7,7 +7,7 @@ import { imageUpload } from "../../../api/utils";
 import toast from "react-hot-toast";
 import { TbFidgetSpinner } from "react-icons/tb";
 import { useNavigate } from "react-router-dom";
-
+// Adda Test 
 const AddATest = () => {
 	const {
 		register,
@@ -183,4 +183,4 @@ const AddATest = () => {
 };
 
 export default AddATest;
-// Adda Test 
+
