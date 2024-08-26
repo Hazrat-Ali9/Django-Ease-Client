@@ -3,7 +3,7 @@ import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import { Link } from "react-router-dom";
 import LoadingSpinner from "../../../components/Shared/LoadingSpinner";
 
-// AllReservations
+// All Resevertion 
 const AllReservations = () => {
 	const axiosSecure = useAxiosSecure();
 
@@ -86,5 +86,5 @@ const AllReservations = () => {
 		</div>
 	);
 };
-// All Resevertion 
+
 export default AllReservations;
