@@ -1,5 +1,5 @@
 import jsPDF from "jspdf";
-
+// pdf prints utils
 export const handleUserTestReportPdf = (test) => {
 	console.log(test);
 	const doc = new jsPDF();
